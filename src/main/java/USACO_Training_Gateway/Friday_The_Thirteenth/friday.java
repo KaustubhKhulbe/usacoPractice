@@ -18,12 +18,12 @@ public class friday {
 
     public static void main(String[] args) throws Exception {
 
-        /*file = new File("friday.in");
+        file = new File("friday.in");
         bf = new BufferedReader(new FileReader(file));
 
         //Get years from text file
-        int years = parseInt(bf.readLine());*/
-        int years = 20; //TODO: remove later
+        int years = parseInt(bf.readLine());
+        years = 20; //TODO: remove later
 
         countYears(years);
         //System.out.println(countYears(years));
