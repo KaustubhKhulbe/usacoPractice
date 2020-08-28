@@ -25,6 +25,8 @@ public class triangles {
        }
     }
 
+    //Goes through points and finds all possible 3 pairs
+
     public static int[][][] calculate(int[][] points){
 
         int numCount = factorial(points.length)/(factorial(points.length-3) * factorial(3));
@@ -48,6 +50,7 @@ public class triangles {
         return answers;
     }
 
+    //Calculates n!
     public static int factorial(int n){
         int sum = 1;
         for(int i = 1; i<n+1; i++){
@@ -56,6 +59,8 @@ public class triangles {
         return sum;
     }
 
+
+    //Will find max in all 3 combinations using Herons Formula
     public static int finMaxArea(int[][][] answers){
         int max = 0;
         int temp = 0;
