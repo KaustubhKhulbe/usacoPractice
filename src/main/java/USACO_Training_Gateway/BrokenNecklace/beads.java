@@ -74,6 +74,7 @@ public class beads {
         for (int i = 0; i < first.length() - 1; i++) {
             if (Character.toString(first.charAt(i)).equals(Character.toString(first.charAt(i + 1))) || first.charAt(i) == 'w' || first.charAt(i + 1) == 'w') {
                 consecutiveBeads++;
+                System.out.println(first);
                 System.out.println(consecutiveBeads);
             } else break;
         }
