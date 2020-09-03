@@ -3,8 +3,6 @@ package USACO_Training_Gateway.BrokenNecklace;
 import java.io.*;
 import java.util.StringTokenizer;
 
-import java.io.*;
-import java.util.StringTokenizer;
 
 public class beads {
     /* Use the slash-star style comments or the system won't see your
@@ -23,7 +21,7 @@ public class beads {
         st = new StringTokenizer(f.readLine());
         beads = st.nextToken();
         System.out.println(maxBeads());
-        out.println(maxBeads());                           // output result
+        out.println(maxBeads());
         out.close();
 
 
@@ -38,20 +36,21 @@ public class beads {
             String first = split[0];
             String second = split[1];
 
-            int leftBeads = getConsecutiveBeads(first + second);
+
+
+            int leftBeads = getConsecutiveBeads(first + "A" + second);
 
             StringBuilder secondBuilder = new StringBuilder();
             secondBuilder.append(second);
             secondBuilder = secondBuilder.reverse();
             second = secondBuilder.toString();
-            int rightBeads = getConsecutiveBeads(second + first);
+            int rightBeads = getConsecutiveBeads(second + "A" + first);
 
             int totalBeads = leftBeads + rightBeads;
 
             if (totalBeads > maxBeads) {
                 maxBeads = totalBeads;
-                System.out.println(first);
-                System.out.println(second);
+
 
             }
 
@@ -72,13 +71,18 @@ public class beads {
     private static int getConsecutiveBeads(String first) {
         int consecutiveBeads = 0;
         for (int i = 0; i < first.length() - 1; i++) {
-            if (Character.toString(first.charAt(i)).equals(Character.toString(first.charAt(i + 1))) || first.charAt(i) == 'w' || first.charAt(i + 1) == 'w') {
+
+            boolean isReached = Character.toString(first.charAt(i)).equals(Character.toString(first.charAt(i + 1))) || first.charAt(i) == 'w' || first.charAt(i + 1) == 'w';
+            if(first.charAt(i) == 'A') break;
+            if(i == 0) consecutiveBeads++;
+            if (isReached){
                 consecutiveBeads++;
-                System.out.println(first);
-                System.out.println(consecutiveBeads);
+
             } else break;
+
         }
-        consecutiveBeads++;
+        if(first.length() > 3) consecutiveBeads++;
+
         return consecutiveBeads;
     }
 
