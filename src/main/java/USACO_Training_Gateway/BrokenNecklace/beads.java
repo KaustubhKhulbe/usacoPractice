@@ -20,70 +20,71 @@ public class beads {
         StringTokenizer st = new StringTokenizer(f.readLine());
         st = new StringTokenizer(f.readLine());
         beads = st.nextToken();
-        System.out.println(maxBeads());
-        out.println(maxBeads());
         out.close();
+        beads = "wwwbbrwrbrbrrbrbrwrwwrbwrwrrb";
+        System.out.println(maxPossibleBeads());
 
 
     }
 
-    public static int maxBeads() {
+    public static int maxPossibleBeads(){
+        int max = 0;
 
-        int maxBeads = 0;
+        for(int i = 0; i < beads.length(); i++){
+            String[] beadHalves = split(i);
+            String first = beadHalves[0];
+            String second = beadHalves[1];
 
-        for (int i = 0; i < beads.length(); i++) {
-            String[] split = splitBeads(i);
-            String first = split[0];
-            String second = split[1];
+            StringBuilder reversedFirst = new StringBuilder(first);
+            reversedFirst = reversedFirst.reverse();
+            first = reversedFirst.toString();
 
+            StringBuilder reversedSecond = new StringBuilder(second);
+            reversedSecond = reversedSecond.reverse();
+            second = reversedSecond.toString();
 
+            String brokenBeads = first + second;
 
-            int leftBeads = getConsecutiveBeads(first + "A" + second);
+            int leftBeads = countBeads(brokenBeads);
+            
+            StringBuilder brokenReversed = new StringBuilder(brokenBeads);
+            brokenBeads = brokenReversed.reverse().toString();
+            int rightBeads = countBeads(brokenBeads);
 
-            StringBuilder secondBuilder = new StringBuilder();
-            secondBuilder.append(second);
-            secondBuilder = secondBuilder.reverse();
-            second = secondBuilder.toString();
-            int rightBeads = getConsecutiveBeads(second + "A" + first);
+            int total = rightBeads + leftBeads;
+            if (total > max) max = total;
+        }
 
-            int totalBeads = leftBeads + rightBeads;
+        return max;
 
-            if (totalBeads > maxBeads) {
-                maxBeads = totalBeads;
+    }
 
+    private static int countBeads(String brokenBeads) {
 
+        int beadCount = 0;
+        char firstBead = 'w';
+        for(int i = 0; i < brokenBeads.length(); i++){
+            if(brokenBeads.charAt(i) != 'w') {
+                firstBead = brokenBeads.charAt(i);
+                break;
             }
-
         }
-        return maxBeads;
 
-
-    }
-
-    private static String[] splitBeads(int i) {
-
-        String firstHalf = beads.substring(0, i);
-        String secondHalf = beads.substring(i);
-        return new String[]{firstHalf, secondHalf};
-
-    }
-
-    private static int getConsecutiveBeads(String first) {
-        int consecutiveBeads = 0;
-        for (int i = 0; i < first.length() - 1; i++) {
-
-            boolean isReached = Character.toString(first.charAt(i)).equals(Character.toString(first.charAt(i + 1))) || first.charAt(i) == 'w' || first.charAt(i + 1) == 'w';
-            if(first.charAt(i) == 'A') break;
-            if(i == 0) consecutiveBeads++;
-            if (isReached){
-                consecutiveBeads++;
-
-            } else break;
-
+        for(int i = 0; i < brokenBeads.length(); i++){
+            if(brokenBeads.charAt(i) == firstBead || brokenBeads.charAt(i) == 'w') beadCount++;
+            else break;
         }
-        if(first.length() > 3) consecutiveBeads++;
-
-        return consecutiveBeads;
+        return beadCount;
     }
+
+    private static String[] split(int i) {
+
+        String first = beads.substring(0, i);
+        String second = beads.substring(i);
+
+        return new String[] {first, second};
+
+    }
+
 
 }
