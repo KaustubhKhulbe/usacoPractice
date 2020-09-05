@@ -2,6 +2,14 @@ package USACO_Training_Gateway.Friday_The_Thirteenth;
 import java.io.*;
 import java.util.StringTokenizer;
 
+/**
+ * @author kkhulbe
+ * @date 9/4/20
+ * Finds the day of the week on each 13th of each month for N years
+ * Score: 333/333
+ */
+
+
 public class friday {
 
     /* Use the slash-star style comments or the system won't see your
