@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd746d0c-74d1-47ed-9b9d-0bc3cd488bfd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/USACO_Training_Gateway/BrokenNecklace/beads.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/USACO_Training_Gateway/BrokenNecklace/beads.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/USACO_Training_Gateway/BrokenNecklace/beads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/USACO_Training_Gateway/BrokenNecklace/beads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/USACO_Training_Gateway/BrokenNecklace/beads.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/USACO_Training_Gateway/BrokenNecklace/beads.out" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="714" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectId" id="1hAHVxGIQK6z84PJgakWQSBnPTw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/USACO_Training_Gateway/Friday_The_Thirteenth" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/USACO_Training_Gateway/Friday_The_Thirteenth" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/USACO_Training_Gateway/BrokenNecklace" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.beads">
+    <configuration name="Persistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Not_USACO.Persistance.Persistance" />
+      <module name="usacoPractice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Not_USACO.Persistance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SevenBoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Not_USACO.SevenBoom.SevenBoom.SevenBoom" />
+      <module name="usacoPractice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Not_USACO.SevenBoom.SevenBoom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="beads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="USACO_Training_Gateway.BrokenNecklace.beads" />
+      <module name="usacoPractice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="USACO_Training_Gateway.BrokenNecklace.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="friday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="USACO_Training_Gateway.Friday_The_Thirteenth.friday" />
+      <module name="usacoPractice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="USACO_Training_Gateway.Friday_The_Thirteenth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="triangles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="USACO_Training_Gateway.Bronze_Triangles_2020.triangles" />
+      <module name="usacoPractice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="USACO_Training_Gateway.Bronze_Triangles_2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.beads" />
+        <item itemvalue="Application.Persistance" />
+        <item itemvalue="Application.SevenBoom" />
+        <item itemvalue="Application.triangles" />
+        <item itemvalue="Application.friday" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd746d0c-74d1-47ed-9b9d-0bc3cd488bfd" name="Default Changelist" comment="" />
+      <created>1598407777864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598407777864</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Worked a bit on Friday problem">
+      <created>1598484437948</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598484437952</updated>
+    </task>
+    <task id="LOCAL-00002" summary="removed unnecessary comments">
+      <created>1598484479289</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598484479289</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Worked on Triangles">
+      <created>1598578978775</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598578978775</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Worked on Triangles">
+      <created>1598635547150</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598635547151</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added comments">
+      <created>1598635646318</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598635646318</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Seven Boom done">
+      <created>1598741279658</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598741279658</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Worked on persistance.java">
+      <created>1598743625999</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598743625999</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Worked on Beads">
+      <created>1598913915888</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1598913915888</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Worked on Beads">
+      <created>1599167741725</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599167741725</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Worked on Beads">
+      <created>1599168379761</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1599168379761</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Worked on Beads">
+      <created>1599172337541</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1599172337541</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Friday the 13th">
+      <created>1599243925397</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1599243925397</updated>
+    </task>
+    <task id="LOCAL-00013" summary="FINISHED FRIDAY!!!">
+      <created>1599291270878</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1599291270878</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Comments on Friday">
+      <created>1599291350522</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1599291350522</updated>
+    </task>
+    <task id="LOCAL-00015" summary="worked on beades">
+      <created>1599346464001</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1599346464001</updated>
+    </task>
+    <task id="LOCAL-00016" summary="cleanup">
+      <created>1599447112038</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1599447112038</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Comments">
+      <created>1599533474714</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1599533474714</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Worked a bit on Friday problem" />
+    <MESSAGE value="removed unnecessary comments" />
+    <MESSAGE value="Worked on Triangles" />
+    <MESSAGE value="Added comments" />
+    <MESSAGE value="Seven Boom done" />
+    <MESSAGE value="Worked on persistance.java" />
+    <MESSAGE value="Worked on Beads" />
+    <MESSAGE value="Friday the 13th" />
+    <MESSAGE value="FINISHED FRIDAY!!!" />
+    <MESSAGE value="Comments on Friday" />
+    <MESSAGE value="worked on beades" />
+    <MESSAGE value="cleanup" />
+    <MESSAGE value="Comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comments" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="332" y="0" key="CommitChangelistDialog2" timestamp="1599533474479">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="332" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1599533474479" />
+    <state x="332" y="23" key="CommitChangelistDialog2/0.23.1440.834@0.23.1440.834" timestamp="1599447111567" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1599602864401">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599602864401" />
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1599459852596" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1599602864399">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599602864399" />
+    <state width="1398" height="216" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1599459852594" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1599602864398">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599602864398" />
+    <state width="1398" height="216" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1599459852594" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1599602864400">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599602864400" />
+    <state width="1398" height="216" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1599459852595" />
+    <state x="229" y="79" key="SettingsEditor" timestamp="1599447019677">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="229" y="79" key="SettingsEditor/0.23.1440.834@0.23.1440.834" timestamp="1599447019677" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1599533480678">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1599533480678" />
+    <state x="320" y="180" key="Vcs.Push.Dialog.v2/0.23.1440.834@0.23.1440.834" timestamp="1599447124768" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
