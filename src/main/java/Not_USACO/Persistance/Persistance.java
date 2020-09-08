@@ -2,6 +2,10 @@ package Not_USACO.Persistance;
 
 public class Persistance {
 
+    //TODO addition and multiplication
+    //Addition implimentation finished
+    //Multiplication left
+
     public static void main(String[] args){
 
         System.out.println(additivePersistence(138));
