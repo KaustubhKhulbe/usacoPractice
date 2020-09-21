@@ -15,7 +15,9 @@ public class beads {
     //random test / cleanup
     private static String beads = "wwwbbrwrbrbrrbrbrwrwwrbwrwrrb";
 
+
     public static void main(String[] args) throws IOException {
+        
 
         BufferedReader f = new BufferedReader(new FileReader("/Users/kkhulbe/usacoPractice/src/main/java/USACO_Training_Gateway/BrokenNecklace/beads.in"));
         PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("/Users/kkhulbe/usacoPractice/src/main/java/USACO_Training_Gateway/BrokenNecklace/beads.out")));
