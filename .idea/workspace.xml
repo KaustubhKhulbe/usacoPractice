@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd746d0c-74d1-47ed-9b9d-0bc3cd488bfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/ValidateParenthesis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -62,26 +61,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/USACO_Training_Gateway/BrokenNecklace" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LongestSubstringWithoutRepeatingCharacters">
+  <component name="RunManager" selected="Application.ValidateParenthesis">
     <configuration name="LongestSubstringWithoutRepeatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Not_USACO.LeetCode.LongestSubstringWithoutRepeatingCharacters" />
       <module name="usacoPractice.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Not_USACO.LeetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Persistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Not_USACO.Persistance.Persistance" />
-      <module name="usacoPractice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Not_USACO.Persistance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,6 +101,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidateParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Not_USACO.LeetCode.ValidateParenthesis" />
+      <module name="usacoPractice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Not_USACO.LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="beads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="USACO_Training_Gateway.BrokenNecklace.beads" />
       <module name="usacoPractice.main" />
@@ -130,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidateParenthesis" />
         <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters" />
         <item itemvalue="Application.RiverSizes" />
         <item itemvalue="Application.TwoSums" />
         <item itemvalue="Application.beads" />
-        <item itemvalue="Application.Persistance" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600906017930</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="LongestSubstringWithoutRepeatingCharacters leetcode problem">
+      <created>1601144162877</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1601144162877</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -310,47 +316,58 @@
     <MESSAGE value="worked on beads" />
     <MESSAGE value="Leet code" />
     <MESSAGE value="Rivers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rivers" />
+    <MESSAGE value="LongestSubstringWithoutRepeatingCharacters leetcode problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="LongestSubstringWithoutRepeatingCharacters leetcode problem" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="332" y="0" key="CommitChangelistDialog2" timestamp="1600906017555">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="343" y="107" key="#Illuminated_Cloud" timestamp="1601402423504">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="343" y="107" key="#Illuminated_Cloud/0.23.1440.821@0.23.1440.821" timestamp="1601402423504" />
+    <state x="332" y="23" key="CommitChangelistDialog2" timestamp="1601144162518">
+      <screen x="0" y="23" width="1440" height="835" />
     </state>
     <state x="332" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1600906017555" />
     <state x="332" y="23" key="CommitChangelistDialog2/0.23.1440.834@0.23.1440.834" timestamp="1600713260871" />
-    <state width="1398" height="243" key="GridCell.Tab.0.bottom" timestamp="1600975308647">
-      <screen x="0" y="23" width="1440" height="835" />
+    <state x="332" y="23" key="CommitChangelistDialog2/0.23.1440.835@0.23.1440.835" timestamp="1601144162518" />
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom" timestamp="1601402540471">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599609995348" />
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1601402540471" />
     <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1600712335927" />
-    <state width="1398" height="243" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1600975308647" />
-    <state width="1398" height="243" key="GridCell.Tab.0.center" timestamp="1600975308644">
-      <screen x="0" y="23" width="1440" height="835" />
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1601144299605" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center" timestamp="1601402540470">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599609995347" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1601402540470" />
     <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1600712335926" />
-    <state width="1398" height="243" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1600975308644" />
-    <state width="1398" height="243" key="GridCell.Tab.0.left" timestamp="1600975308642">
-      <screen x="0" y="23" width="1440" height="835" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1601144299605" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left" timestamp="1601402540470">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599609995344" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1601402540470" />
     <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1600712335925" />
-    <state width="1398" height="243" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1600975308642" />
-    <state width="1398" height="243" key="GridCell.Tab.0.right" timestamp="1600975308646">
-      <screen x="0" y="23" width="1440" height="835" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1601144299604" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right" timestamp="1601402540471">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599609995348" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1601402540471" />
     <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1600712335926" />
-    <state width="1398" height="243" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1600975308646" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1601144299605" />
     <state x="229" y="79" key="SettingsEditor" timestamp="1599447019677">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
     <state x="229" y="79" key="SettingsEditor/0.23.1440.834@0.23.1440.834" timestamp="1599447019677" />
-    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1600906030286">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="320" y="180" key="Vcs.Push.Dialog.v2" timestamp="1601144171496">
+      <screen x="0" y="23" width="1440" height="835" />
     </state>
     <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600906030286" />
     <state x="320" y="180" key="Vcs.Push.Dialog.v2/0.23.1440.834@0.23.1440.834" timestamp="1600713271174" />
+    <state x="320" y="180" key="Vcs.Push.Dialog.v2/0.23.1440.835@0.23.1440.835" timestamp="1601144171496" />
   </component>
   <component name="masterDetails">
     <states>
