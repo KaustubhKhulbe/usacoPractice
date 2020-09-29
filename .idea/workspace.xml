@@ -55,9 +55,22 @@
       <recent name="$PROJECT_DIR$/src/main/java/USACO_Training_Gateway/BrokenNecklace" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValidateParenthesis">
+  <component name="RunManager" selected="Application.ReverseInteger">
     <configuration name="LongestSubstringWithoutRepeatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Not_USACO.LeetCode.LongestSubstringWithoutRepeatingCharacters" />
+      <module name="usacoPractice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Not_USACO.LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Not_USACO.LeetCode.ReverseInteger" />
       <module name="usacoPractice.main" />
       <extension name="coverage">
         <pattern>
@@ -108,26 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="beads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="USACO_Training_Gateway.BrokenNecklace.beads" />
-      <module name="usacoPractice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="USACO_Training_Gateway.BrokenNecklace.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="Application.ValidateParenthesis" />
         <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters" />
         <item itemvalue="Application.RiverSizes" />
         <item itemvalue="Application.TwoSums" />
-        <item itemvalue="Application.beads" />
       </list>
     </recent_temporary>
   </component>
