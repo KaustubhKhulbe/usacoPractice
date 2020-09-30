@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd746d0c-74d1-47ed-9b9d-0bc3cd488bfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/RomanToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +62,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/USACO_Training_Gateway/BrokenNecklace" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RomanToInteger">
+  <component name="RunManager" selected="Application.LongestCommonPrefix">
     <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Not_USACO.LeetCode.IsPalindrome" />
       <module name="usacoPractice.main" />
@@ -69,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubstringWithoutRepeatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Not_USACO.LeetCode.LongestSubstringWithoutRepeatingCharacters" />
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Not_USACO.LeetCode.LongestCommonPrefix" />
       <module name="usacoPractice.main" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestCommonPrefix" />
         <item itemvalue="Application.RomanToInteger" />
         <item itemvalue="Application.IsPalindrome" />
         <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="Application.ValidateParenthesis" />
-        <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters" />
       </list>
     </recent_temporary>
   </component>
@@ -333,35 +340,39 @@
     <state x="332" y="23" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1601402583076" />
     <state x="332" y="23" key="CommitChangelistDialog2/0.23.1440.834@0.23.1440.834" timestamp="1600713260871" />
     <state x="332" y="23" key="CommitChangelistDialog2/0.23.1440.835@0.23.1440.835" timestamp="1601144162518" />
-    <state width="1398" height="200" key="GridCell.Tab.0.bottom" timestamp="1601449535341">
-      <screen x="0" y="23" width="1440" height="795" />
+    <state width="1398" height="199" key="GridCell.Tab.0.bottom" timestamp="1601483313560">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599609995348" />
     <state width="1398" height="200" key="GridCell.Tab.0.bottom/0.23.1440.795@0.23.1440.795" timestamp="1601449535341" />
+    <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1601483313560" />
     <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1601413118632" />
     <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1600712335927" />
     <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1601144299605" />
-    <state width="1398" height="200" key="GridCell.Tab.0.center" timestamp="1601449535340">
-      <screen x="0" y="23" width="1440" height="795" />
+    <state width="1398" height="199" key="GridCell.Tab.0.center" timestamp="1601483313558">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599609995347" />
     <state width="1398" height="200" key="GridCell.Tab.0.center/0.23.1440.795@0.23.1440.795" timestamp="1601449535340" />
+    <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1601483313558" />
     <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1601413118621" />
     <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1600712335926" />
     <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1601144299605" />
-    <state width="1398" height="200" key="GridCell.Tab.0.left" timestamp="1601449535340">
-      <screen x="0" y="23" width="1440" height="795" />
+    <state width="1398" height="199" key="GridCell.Tab.0.left" timestamp="1601483313558">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599609995344" />
     <state width="1398" height="200" key="GridCell.Tab.0.left/0.23.1440.795@0.23.1440.795" timestamp="1601449535340" />
+    <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1601483313558" />
     <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1601413118619" />
     <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1600712335925" />
     <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1601144299604" />
-    <state width="1398" height="200" key="GridCell.Tab.0.right" timestamp="1601449535340">
-      <screen x="0" y="23" width="1440" height="795" />
+    <state width="1398" height="199" key="GridCell.Tab.0.right" timestamp="1601483313559">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599609995348" />
     <state width="1398" height="200" key="GridCell.Tab.0.right/0.23.1440.795@0.23.1440.795" timestamp="1601449535340" />
+    <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1601483313559" />
     <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1601413118631" />
     <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1600712335926" />
     <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1601144299605" />
