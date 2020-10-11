@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd746d0c-74d1-47ed-9b9d-0bc3cd488bfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/findMinArrowShots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Not_USACO/CodeForces/Team.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Not_USACO/CodeForces/Watermelon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Not_USACO/CodeForces/WayTooLongWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Not_USACO/LeetCode/ComplementOfBase10Integer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Not_USACO/LeetCode/EgyptianNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Not_USACO/LeetCode/LongestPalendromicSubstring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Not_USACO/LeetCode/PythagoreanTriplets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Not_USACO/LeetCode/findMinArrowShots.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Not_USACO/LeetCode/maxRiverSizes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/USACO_Training_Gateway/CowGymnastics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/USACO_Training_Gateway/PhotoShoot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/USACO_Training_Gateway/Race.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/MaximumNestingDepthOfParenthesis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
@@ -63,7 +75,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/USACO_Training_Gateway/BrokenNecklace" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.findMinArrowShots">
+  <component name="RunManager" selected="Application.MaximumNestingDepthOfParenthesis">
     <configuration name="CowGymnastics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="USACO_Training_Gateway.CowGymnastics" />
       <module name="usacoPractice.main" />
@@ -90,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhotoShoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="USACO_Training_Gateway.PhotoShoot" />
+    <configuration name="MaximumNestingDepthOfParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Not_USACO.LeetCode.MaximumNestingDepthOfParenthesis" />
       <module name="usacoPractice.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="USACO_Training_Gateway.*" />
+          <option name="PATTERN" value="Not_USACO.LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumNestingDepthOfParenthesis" />
         <item itemvalue="Application.findMinArrowShots" />
         <item itemvalue="Application.PythagoreanTriplets" />
         <item itemvalue="Application.CowGymnastics" />
         <item itemvalue="Application.EgyptianNumbers" />
-        <item itemvalue="Application.PhotoShoot" />
       </list>
     </recent_temporary>
   </component>
@@ -341,10 +353,10 @@
     <state x="332" y="23" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1601402583076" />
     <state x="332" y="23" key="CommitChangelistDialog2/0.23.1440.834@0.23.1440.834" timestamp="1600713260871" />
     <state x="332" y="23" key="CommitChangelistDialog2/0.23.1440.835@0.23.1440.835" timestamp="1601144162518" />
-    <state width="1398" height="239" key="GridCell.Tab.0.bottom" timestamp="1602353755973">
+    <state width="1398" height="239" key="GridCell.Tab.0.bottom" timestamp="1602387388648">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602353755973" />
+    <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602387388648" />
     <state width="1398" height="200" key="GridCell.Tab.0.bottom/0.23.1440.795@0.23.1440.795" timestamp="1601449535341" />
     <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1602207486670" />
     <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1601833867563" />
@@ -352,10 +364,10 @@
     <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1601413118632" />
     <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1600712335927" />
     <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1601144299605" />
-    <state width="1398" height="239" key="GridCell.Tab.0.center" timestamp="1602353755971">
+    <state width="1398" height="239" key="GridCell.Tab.0.center" timestamp="1602387388647">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="239" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602353755971" />
+    <state width="1398" height="239" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602387388647" />
     <state width="1398" height="200" key="GridCell.Tab.0.center/0.23.1440.795@0.23.1440.795" timestamp="1601449535340" />
     <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1602207486668" />
     <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1601833867562" />
@@ -363,10 +375,10 @@
     <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1601413118621" />
     <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1600712335926" />
     <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1601144299605" />
-    <state width="1398" height="239" key="GridCell.Tab.0.left" timestamp="1602353755970">
+    <state width="1398" height="239" key="GridCell.Tab.0.left" timestamp="1602387388647">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="239" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602353755970" />
+    <state width="1398" height="239" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602387388647" />
     <state width="1398" height="200" key="GridCell.Tab.0.left/0.23.1440.795@0.23.1440.795" timestamp="1601449535340" />
     <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1602207486667" />
     <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1601833867561" />
@@ -374,10 +386,10 @@
     <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1601413118619" />
     <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1600712335925" />
     <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1601144299604" />
-    <state width="1398" height="239" key="GridCell.Tab.0.right" timestamp="1602353755972">
+    <state width="1398" height="239" key="GridCell.Tab.0.right" timestamp="1602387388648">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="239" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602353755972" />
+    <state width="1398" height="239" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602387388648" />
     <state width="1398" height="200" key="GridCell.Tab.0.right/0.23.1440.795@0.23.1440.795" timestamp="1601449535340" />
     <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1602207486669" />
     <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1601833867563" />
@@ -385,6 +397,22 @@
     <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1601413118631" />
     <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1600712335926" />
     <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1601144299605" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1602387136981">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602387136981" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1602387136979">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1602387136979" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1602387136978">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1602387136978" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1602387136980">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1602387136980" />
     <state x="229" y="77" key="SettingsEditor" timestamp="1601482378433">
       <screen x="0" y="23" width="1440" height="798" />
     </state>
