@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd746d0c-74d1-47ed-9b9d-0bc3cd488bfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/Arrays/CheckIfNAndItsDoubleExist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/Arrays/DuplicateZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/Arrays/FindNumbersWithEvenDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/Arrays/MaxConsecutiveOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/Arrays/MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/Arrays/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/Arrays/RemovingElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/Arrays/SquaresOfSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/topInterviewQuestions/easyCollection/BestTimeToBuyAndSellStockII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/topInterviewQuestions/easyCollection/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/MaximumNonNegativeProductInAMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/MayChallenge/FirstBadVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/MayChallenge/JewelsAndStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/MayChallenge/NumberComplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/MayChallenge/RansomNotes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
