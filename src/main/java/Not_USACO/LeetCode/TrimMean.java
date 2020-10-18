@@ -1,5 +1,8 @@
 package Not_USACO.LeetCode;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class TrimMean {
     public double trimMean(int[] arr) {
 
