@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd746d0c-74d1-47ed-9b9d-0bc3cd488bfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/Miscellaneous/Link.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/Miscellaneous/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/Contest212/ArithmeticSubarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/Contest212/SlowestKey.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Not_USACO/Miscellaneous" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Not_USACO/Miscellaneous/Stack" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -54,6 +54,9 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Not_USACO/Miscellaneous/Stack" />
+      <recent name="$PROJECT_DIR$/src/main/java/Not_USACO/Miscellaneous/linkedList" />
+      <recent name="$PROJECT_DIR$/src/main/java/Not_USACO/Miscellaneous/Queue" />
       <recent name="$PROJECT_DIR$/src/main/java/Not_USACO/Miscellaneous" />
       <recent name="$PROJECT_DIR$/src/main/java/USACO_Training_Gateway/Friday_The_Thirteenth" />
     </key>
