@@ -1,4 +1,4 @@
-package Not_USACO.Miscellaneous;
+package Not_USACO.Miscellaneous.linkedList;
 
 public class Link {
 	
