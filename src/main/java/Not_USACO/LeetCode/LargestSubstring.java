@@ -7,7 +7,7 @@ public class LargestSubstring {
      * return -1. A substring is a contiguous sequence of characters within a
      * string.
      */
-    public class LargestSubstring {
+    /*public class LargestSubstring {
         public static void main(String[] args) {
             System.out.println(maxLengthBetweenEqualCharacters("abca"));
         }
@@ -26,5 +26,5 @@ public class LargestSubstring {
             return max;
         }
     }
-
+*/
 }

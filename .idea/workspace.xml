@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd746d0c-74d1-47ed-9b9d-0bc3cd488bfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/ChampagneTower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/LinkedLIstCycleII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CrackingTheCodingInterview/ArraysAndStrings/isUnique.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/LargestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/LargestSubstring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,26 +61,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/USACO_Training_Gateway/BrokenNecklace" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddTwoNumbers">
+  <component name="RunManager" selected="Application.isUnique">
     <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Not_USACO.LeetCode.AddTwoNumbers" />
       <module name="usacoPractice.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Not_USACO.LeetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CowGymnastics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="USACO_Training_Gateway.CowGymnastics" />
-      <module name="usacoPractice.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="USACO_Training_Gateway.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,13 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="isUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CrackingTheCodingInterview.ArraysAndStrings.isUnique" />
+      <module name="usacoPractice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CrackingTheCodingInterview.ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.isUnique" />
         <item itemvalue="Application.AddTwoNumbers" />
         <item itemvalue="Application.MaximumNestingDepthOfParenthesis" />
         <item itemvalue="Application.findMinArrowShots" />
         <item itemvalue="Application.PythagoreanTriplets" />
-        <item itemvalue="Application.CowGymnastics" />
       </list>
     </recent_temporary>
   </component>
@@ -339,10 +339,10 @@
     <state x="332" y="23" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1601402583076" />
     <state x="332" y="23" key="CommitChangelistDialog2/0.23.1440.834@0.23.1440.834" timestamp="1600713260871" />
     <state x="332" y="23" key="CommitChangelistDialog2/0.23.1440.835@0.23.1440.835" timestamp="1601144162518" />
-    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1602885183920">
+    <state width="1398" height="239" key="GridCell.Tab.0.bottom" timestamp="1604169650624">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602885183920" />
+    <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604169650624" />
     <state width="1398" height="200" key="GridCell.Tab.0.bottom/0.23.1440.795@0.23.1440.795" timestamp="1601449535341" />
     <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1602207486670" />
     <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1601833867563" />
@@ -351,10 +351,10 @@
     <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1601413118632" />
     <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1600712335927" />
     <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1601144299605" />
-    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1602885183917">
+    <state width="1398" height="239" key="GridCell.Tab.0.center" timestamp="1604169650623">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602885183917" />
+    <state width="1398" height="239" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1604169650623" />
     <state width="1398" height="200" key="GridCell.Tab.0.center/0.23.1440.795@0.23.1440.795" timestamp="1601449535340" />
     <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1602207486668" />
     <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1601833867562" />
@@ -363,10 +363,10 @@
     <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1601413118621" />
     <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1600712335926" />
     <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1601144299605" />
-    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1602885183917">
+    <state width="1398" height="239" key="GridCell.Tab.0.left" timestamp="1604169650622">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602885183917" />
+    <state width="1398" height="239" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1604169650622" />
     <state width="1398" height="200" key="GridCell.Tab.0.left/0.23.1440.795@0.23.1440.795" timestamp="1601449535340" />
     <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1602207486667" />
     <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1601833867561" />
@@ -376,10 +376,10 @@
     <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1601413118619" />
     <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1600712335925" />
     <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1601144299604" />
-    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1602885183919">
+    <state width="1398" height="239" key="GridCell.Tab.0.right" timestamp="1604169650623">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602885183919" />
+    <state width="1398" height="239" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1604169650623" />
     <state width="1398" height="200" key="GridCell.Tab.0.right/0.23.1440.795@0.23.1440.795" timestamp="1601449535340" />
     <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1602207486669" />
     <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1601833867563" />
