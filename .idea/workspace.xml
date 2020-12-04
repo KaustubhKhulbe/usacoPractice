@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd746d0c-74d1-47ed-9b9d-0bc3cd488bfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/DecemberChallenge/maxDepth/KthFactorOfN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/DecemberChallenge/maxDepth/MaxDepthOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Not_USACO/LeetCode/DecemberChallenge/maxDepth/MaxDepthOfBinaryTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -332,6 +330,10 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="343" y="107" key="#Illuminated_Cloud/0.23.1440.821@0.23.1440.821" timestamp="1601402423504" />
+    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607109097928">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1607109097928" />
     <state x="332" y="23" key="CommitChangelistDialog2" timestamp="1601402583076">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
